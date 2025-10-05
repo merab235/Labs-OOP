@@ -1,0 +1,14 @@
+/Users/mac/VendingMachine/bin/Debug/net8.0/VendingMachine
+/Users/mac/VendingMachine/bin/Debug/net8.0/VendingMachine.deps.json
+/Users/mac/VendingMachine/bin/Debug/net8.0/VendingMachine.runtimeconfig.json
+/Users/mac/VendingMachine/bin/Debug/net8.0/VendingMachine.dll
+/Users/mac/VendingMachine/bin/Debug/net8.0/VendingMachine.pdb
+/Users/mac/VendingMachine/obj/Debug/net8.0/VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/VendingMachine/obj/Debug/net8.0/VendingMachine.AssemblyInfoInputs.cache
+/Users/mac/VendingMachine/obj/Debug/net8.0/VendingMachine.AssemblyInfo.cs
+/Users/mac/VendingMachine/obj/Debug/net8.0/VendingMachine.csproj.CoreCompileInputs.cache
+/Users/mac/VendingMachine/obj/Debug/net8.0/VendingMachine.dll
+/Users/mac/VendingMachine/obj/Debug/net8.0/refint/VendingMachine.dll
+/Users/mac/VendingMachine/obj/Debug/net8.0/VendingMachine.pdb
+/Users/mac/VendingMachine/obj/Debug/net8.0/VendingMachine.genruntimeconfig.cache
+/Users/mac/VendingMachine/obj/Debug/net8.0/ref/VendingMachine.dll
