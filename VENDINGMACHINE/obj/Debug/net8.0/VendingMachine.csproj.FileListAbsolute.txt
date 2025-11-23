@@ -12,3 +12,4 @@
 /Users/mac/VendingMachine/obj/Debug/net8.0/VendingMachine.pdb
 /Users/mac/VendingMachine/obj/Debug/net8.0/VendingMachine.genruntimeconfig.cache
 /Users/mac/VendingMachine/obj/Debug/net8.0/ref/VendingMachine.dll
+/Users/mac/VendingMachine/obj/Debug/net8.0/VendingMachine.sourcelink.json
